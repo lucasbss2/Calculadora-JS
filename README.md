@@ -1,5 +1,5 @@
 # Calculadora-JS
-Calculadora desenvolvida em JavaScript nativo. Calculator developed in native JavaScript.
+Calculadora desenvolvida em JavaScript. Calculator developed in JavaScript.
 
 # DEMO
 https://calculator-js-lb.netlify.app/
